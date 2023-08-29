@@ -1,0 +1,16 @@
+.heading {
+    width: 55px;
+    height: 75px;
+    background-color: lightgoldenrodyellow;
+    border: 1rem solid lightcoral;
+    padding: 1rem 1.5rem 2rem;
+    margin: 0.5rem;
+}
+.para {
+    width: 55px;
+    height: 40px;
+    background-color: lightgreen;
+    border: 1rem solid darkolivegreen;
+    padding: 3rem 1rem 1rem;
+    margin: 0.5rem;
+}
